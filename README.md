@@ -1,7 +1,7 @@
 
 # Replication package
 
-This is a replication package of the paper titled ""
+This is a replication package of the paper titled "A Longitudinal Exploratory Study on Code Smells in Server Side Web Applications"
 
 In this package you will find:
 
