@@ -14,3 +14,19 @@ In this package you will find:
     - the code smells occurrence frequency [``CodeSmellsOccurrenceFrequency.py``](https://github.com/stilab-ets/CodeSmells_WebApps/blob/main/Scripts/CodeSmellsOccurrenceFrequency.py)
 
 3. The ``OccAllApp.csv`` contain all types of code smells found in each smelly file of the 400+ studied releases.
+
+# How to cite?
+
+Please, use the following bibtex entry:
+
+```tex
+@article{bessghaier2021longitudinal,
+  title={A longitudinal exploratory study on code smells in server side web applications},
+  author={Bessghaier, Narjes and Ouni, Ali and Mkaouer, Mohamed Wiem},
+  journal={Software Quality Journal},
+  volume={29},
+  pages={901--941},
+  year={2021},
+  publisher={Springer}
+}
+```
